@@ -3,11 +3,11 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 
-import Layer from "./Components/Layout";
-import { Login } from "./Components/Login";
+import Layer from "./Component/Layout";
+import { Login } from "./Component/Login";
 
-import NotFound from "./Components/NotFound";
-import Signin from "./Components/Signin.jsx";
+import NotFound from "./Component/NotFound";
+import Signin from "./Component/Signin.jsx";
 
 function App() {
   return (
